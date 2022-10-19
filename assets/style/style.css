@@ -824,8 +824,27 @@ p {
   font-size: 7px;
   color: white;
 }
+
+.img7 {
+  width: 40px;
+  height: 40px;
+  margin-top: -99%;
+  margin-left: 45vh;
+}
+.mt-md-5 {
+  margin-top: 0rem!important;
+}
 .img4 {
-  width: 20px;
-  height: 20px;
+  width: 17px;
+  height: 18px;
+}
+
+.header-top-ul {
+  padding-left: 1rem;
+}
+.header-top-image {
+  width: 14px;
+  height: 14px;
+  margin-top: 12PX;
 }
   }
